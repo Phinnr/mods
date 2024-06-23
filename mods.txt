@@ -1,0 +1,106 @@
+1: (level maximo 99);
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2: drop de augument em todos os itens equipaveis;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3: (3 arvores de skill)
+(se possivel configurar a quantidade das skills)
+1° arvore: quando o player chegar no level 76
+2° arvore: quando o player chegar no level 80
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4: (4° Job ao atingir level 90)
+duas escolhas de arvore de skill
+tera dois tipos de 4° job, uma pra mage e uma pra fighter
+e cada uma dessas job tera uma arvore de skill
+exemplo: Mage 1 Mage 2 (4° Job de mage) / Fighter 1 Fighter 2 (4° Job fighter)
+enquanto mage 1 tera um tipo de arvore a mage 2 tera outro tipo de arvore, o mesmo pra fighter
+orc mage sera o unico que podera escolher entre as job de mage e de fighter;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5: (Dungeon instanciada)
+todos os drops no chão em todas as dungeons, deletar todos os itens do chao quando a dungeon fechar ou acabar.
+se o player for desconectado a dungeon fecha, sele reiniciar o jogo indo para o lobby ou apenas fechando a dungeon fecha tbm.
+itens requeridos para fazer as dungeons, cada item abre uma dungeon diferente.
+se mais de um player estiver na party para entrar na dungeon cada um tem que ter a chave pra entrar mas o drop equivalente a quantidade de players na party indo ao limite de 4x, acima disso não acumula
+cada dungeon pode ser configuradao o mapa, drop chance, xp, dano, HP, quantidade de mobs e tipos de mobs
+regras: se escolheu solo vai fazer solo, não pode chamar ninguem pra party e ninguem pode chamar ele pra party enquanto ele estiver na party.
+se escolheu modo party o HP dos mobs e dobrado dependendo da quantidade de players na party, exemplo: se for 2 pessoas na party o mob tera o dobro de HP, se o player for com 5 pessoas na party os mobs terão 5x de HP
+e outras coisas que quero tbm que seja configuravel, tipo, se for mais de duas pessoas na DG que tenham mais "penalidades" como por exemplo ter mais mobs que o normal na DG ou mais ataque, tipo quanto mais player mais posso add essas "penalidades"
+tbm se aplica a summonar players dentro da DG, não quero que seja possivel.
+as DGs teram level de dificuldade, exemplo: do 1 ao 10, podendo eu configurar as dificuldades e quantidade dos mobs em cada level.;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6: (um mob especial que tem chance de aparecer ao matar um mob)
+que seja possivel configurar a chance dele aparecer por zona
+tipo, zona normal ele tenha 2% de chance de aparecer enquanto nas DG eu quero ele tenha 10% de chance de aparecer.
+configurar o status dele dependendo da zona que ele apareça tbm;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7: (modificador de augument)
+um npc que possa modificar o augument de um item por linha.
+cada item vem com varias linhas de augument, uma das opções do npc pode modificar uma linha (se possivel uma linha especifica)
+vou dar um exemplo:
+um item com 4 linhas de status de augument:
+critical chance: 4,75%
+damage: 2%
+speed: 5
+critical mage: 10%
+então o player que trocar a ultima linha ( Critical Mage: 10% ) mas ele se depara com mais opções no npc:
+1° opção status ramdon ( vai randomizar um status qualquer no lugar mas dependendo da classe do item não vira qualquer status, sera randomizado alguns status especificos em vez de todos, quanto mais raro o item for melhor sera o status que vira
+se isso não for possivel (modificar o status dependendo da raridade do item) fazer então dependendo do item usado para o player fazer isso, tipo o player usar uma pedra mais rara de augument para fazer essa randomização.
+vou explicar melhor, caso essa modificação de status do augument não funcionar dependendo da raridade da arma então tera 5 tipos de itens que podem randomizar o status, o mais raro tera chance maior de vim um status top.
+outra opção do npc, ramdomizar todos os status dependendo da pedra novamente.
+resumindo:
+primeira html de opções:
+random 1 status
+random all status
+agora o player vai escolher a pedra de augument
+então vem a outra html
+se ele escolheu a opção (random 1 status)
+então mostrar as linhas do augument para ele selecionar qual ele quer trocar.
+a segunda opção (random all status) não tem segredo, ele so precisa selecionar a pedra e o item para randomizar todos os atatus.;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8: (Ranking)
+top levels teram buffs sem tempo de limite esceto se alguem passar ele no ranking
+que seja possivel configurar os bouffs dependendo da posição no ranking;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9: (Black Hole)
+e um tipo de DG que tem level.
+se vc completar significa que vc passou da level 1
+se vc for de novo ira enfrentar o black hole level 2
+sem limite de level para o black hole porque tera ranking com beneficios de buff tbm
+claro que quanto maior o level maior sera a dificuldade por isso quero uma configuração do que pode ser alterado nos mobs por leve do black hole
+boss no final de cada black hole que so aparece se matar todos os mobs.;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10: (boss);
+flag ao se aproximar de um.
+o boss volta para o lugar se ficar muito longe do seu ponto de origem
+se o boss voltar para o seu ponto de origem o HP vai restaurando gradualmente por porcentagem;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11: (reliquias)
+parecidas com a runa de xp so que darão outros status
+esses status não pode acumular o status se a reliqua for igual
+o item precisa estar na bag.;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12: (inventory limite)
+um status que de mais limite na bag do player (mais espaço na bag, tenho plano futuros de status dependendo da quantidade de slot extra pra isso);
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+13: ( todos os drops de boss no chão sem penalidades ou delay para pegar os itens);
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14: (procurado)
+exemplo:
+eu sofro pk e não gostei disso eu vou em um npc pagar pela morte desse cara então e anunciado a recompensa pela morte dele então alguem pode ir em um npc especifico aceitar a missão de matar ele, então ele sera teleportado para o player pk mas não perto, quero que o teleporte seja randomizado alguns metros do player pk para ele ter uma chance de escapar.
+o npc de recompensa listara todas as missoes ativas.
+so pode criar a missão se for morto por outro player sem vc ter ficado flag, ou seja, se vc tomou um pk, então aparece mais uma opção quando vc morrer, em vez de aparecer apenas to village, ira aparecer essa opção para criar a recompensa.
+se o player não estiver mais flag a missão some.
+se o pk deslogar o nome dele ainda estara na lista.
+o player que aceitou a missão e concluiu ganhara não so a recompensa como recomends.
