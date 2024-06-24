@@ -6,8 +6,8 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3: (3 arvores de skill)
 (se possivel configurar a quantidade das skills)
-1° arvore: quando o player chegar no level 76
-2° arvore: quando o player chegar no level 80
+1° arvore: quando o player chegar no level 86
+2° arvore: quando o player chegar no level 90
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4: (4° Job ao atingir level 90)
