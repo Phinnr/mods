@@ -135,3 +135,10 @@ exemplo de mecanica, boss chega a 70% de HP então aparece 5 totens ao redor del
 mais uma mecanica: identica a anterior mas dessa vez alguns raid fighter, quero que fique aparente essa mecanica.
 exemplo: na hora que a mecanica aparecer, ter algum efeito aparente de ligação dos totem com o boss.
 se precisar de mais explicação te falo melhor por audio.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+18: (evento: Fast Warrior)
+"eu inventei o evento então se eu ver por ai antes do meu servidor eu vou te matar kk"
+ao entrar na DG tera a chance dessa evento aparecer (lembra de gravar esse codigo pq vou inventar outros eventos para as DGs e vou querer arvores convifuraveis para as DGs pq cada evento vai dar drop diferente para o player então o proprio player podera configurar o que quer dropar nas DGs mas isso talvez fique para a segunda season (talvez)
+como vai funcionar: ira aparecer um totem na DG dai o player fala com ele pra startar então vai aparecer um tempo na tela do player que vai diminuindo, quanto mais mobs naquele tempo ele matar mais pontos ele vai ganhando, se possivel mostrar os pontos que ele vai fazendo durante a DG, dependendo da quantidade de pontos que ele fizer a quantidade de itens e raridade dos itens aumenta, então quando o tempo acabar um bau aparecera na frente dele com os itens quivalentes aos pontos do evento.
