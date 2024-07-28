@@ -1,21 +1,25 @@
-1: (level maximo 99);
+1: (level maximo 99)
+atualização:sem alteração no status apos lv85;
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-2: drop de augument em todos os itens equipaveis;
+2: drop de augument em todos os itens equipaveis
+atualização: grau de skill augument depende da grade do item, quanto maior a grade melhor vem as skills
+obs: nem todas;
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3: (3 arvores de skill)
 (se possivel configurar a quantidade das skills)
-1° arvore: quando o player chegar no level 86
-2° arvore: quando o player chegar no level 90
+atualização: o level que o player vai receber a arvore vai depender da configuração que eu escolher.
+cada level que o player alcançar vai ser mais um ponto para as arvores de skill.
+configuração de quantos pontos o player vai ganhar por level.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4: (4° Job ao atingir level 90)
 duas escolhas de arvore de skill
+atualização:
 tera dois tipos de 4° job, uma pra mage e uma pra fighter
-e cada uma dessas job tera uma arvore de skill
-exemplo: Mage 1 Mage 2 (4° Job de mage) / Fighter 1 Fighter 2 (4° Job fighter)
-enquanto mage 1 tera um tipo de arvore a mage 2 tera outro tipo de arvore, o mesmo pra fighter
+e cada uma dessas job tera duas skills para escolher apenas uma.
+obs: essas duas skills tera que aparecer no final da primeira arvore de skill
 orc mage sera o unico que podera escolher entre as job de mage e de fighter;
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -37,6 +41,7 @@ que seja possivel configurar a chance dele aparecer por zona
 tipo, zona normal ele tenha 2% de chance de aparecer enquanto nas DG eu quero ele tenha 10% de chance de aparecer.
 configurar o status dele dependendo da zona que ele apareça tbm;
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 7: (modificador de augument)
 um npc que possa modificar o augument de um item por linha.
 cada item vem com varias linhas de augument, uma das opções do npc pode modificar uma linha (se possivel uma linha especifica)
@@ -104,3 +109,29 @@ so pode criar a missão se for morto por outro player sem vc ter ficado flag, ou
 se o player não estiver mais flag a missão some.
 se o pk deslogar o nome dele ainda estara na lista.
 o player que aceitou a missão e concluiu ganhara não so a recompensa como recomends.
+
+
+
+
+(BREVE)
+15: (Totem)
+skill exclusiva para orcs mage com arvove de passivas para o totem.
+vai funcionar assim, o orc lança o totem no chao e dependendo da arvode de passiva do totem vai servir pra debuffar ou atacar mobs ou boss.
+obs: em pvp ter o mesmo efeito se o player(dono do totem) estiver flag
+obs: arvore de passivas com skill onde o orc possa sumonar mais de um totem, resto das skills eu decido quais status terão.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+16: (minion builds)
+anões e classes summon com arvore de abilidades exclusivas.
+sabe aquelas 3 arvores que pedi? poise minion builds e orcs teram a opção de sacrificar uma das 3 arvores por uma exclusiva ( lembrando que arvore exclusiva e apenas para summons e orcs mage por enquanto mas acho que to pensando em querer uma pra kamael tbm)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+17: (raio de skills para boss e mecanicas)
+quero criar uns boses com mecanicas e raios de skills.
+sobre o raio de skill vc ja sabe como funciona entao vou explicar sobre as mecanicas.
+quando chegar em uma certa porcentagem de HP do boss ele libera uma das mecanicas (se possivel de pra configurar quantas mecanicas eu quiser em um boss)
+exemplo de mecanica, boss chega a 70% de HP então aparece 5 totens ao redor dele dai ele fica invul ate destruir os toten
+mais uma mecanica: identica a anterior mas dessa vez alguns raid fighter, quero que fique aparente essa mecanica.
+exemplo: na hora que a mecanica aparecer, ter algum efeito aparente de ligação dos totem com o boss.
+se precisar de mais explicação te falo melhor por audio.
